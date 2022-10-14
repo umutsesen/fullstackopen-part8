@@ -11,7 +11,7 @@
     "apollo-env": "^0.6.5",
     "apollo-graphql": "^0.6.0",
     "apollo-reporting-protobuf": "^0.6.0",
-    "apollo-server": "^2.18.2",
+    "apollo-server": "^2.25.4",
     "graphql": "^15.3.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.10.9",
